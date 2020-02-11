@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"jasminefe2b20ed": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

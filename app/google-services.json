@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847467949881",
+    "firebase_url": "https://jasmine-79fd1.firebaseio.com",
+    "project_id": "jasmine-79fd1",
+    "storage_bucket": "jasmine-79fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847467949881:android:8a334ebb62c9e80f2202e8",
+        "android_client_info": {
+          "package_name": "com.example.jasmine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847467949881-4mvhk6ns6tm7am26sqefe0ln216cvqht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jasmine",
+            "certificate_hash": "8374404af7f08120470f1235decaf0f3202de11a"
+          }
+        },
+        {
+          "client_id": "847467949881-linev2f36dotrngohop9coso4i8elgl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsu3q6E-gL4sKTiW2dzYLNHB6KPC7Mx-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847467949881-linev2f36dotrngohop9coso4i8elgl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
