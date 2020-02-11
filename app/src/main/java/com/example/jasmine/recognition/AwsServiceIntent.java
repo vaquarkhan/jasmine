@@ -63,7 +63,7 @@ public class AwsServiceIntent extends IntentService {
         setIntentRedelivery(false);
 
 
-        AWSCredentials credentials = new BasicAWSCredentials("AKIAJDT3X7XPDJNCQIDQ","I+KVT2EQCt4l1YJ93GG53yf7NmGMD7hTUF7fMh34");
+        AWSCredentials credentials = new BasicAWSCredentials("mykey","secretkey");
         rekognitionClient = new AmazonRekognitionClient(credentials);
         rekognitionClient.setRegion(Region.getRegion(Regions.AP_SOUTHEAST_1));
 
